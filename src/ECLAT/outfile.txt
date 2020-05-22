@@ -1,0 +1,165 @@
+eggs,mineral water
+spaghetti,mineral water
+spaghetti,eggs
+chocolate,mineral water
+chocolate,eggs
+chocolate,spaghetti
+french fries,mineral water
+french fries,eggs
+french fries,spaghetti
+french fries,chocolate
+milk,mineral water
+milk,eggs
+milk,spaghetti
+milk,chocolate
+milk,french fries
+green tea,mineral water
+green tea,french fries
+green tea,spaghetti
+green tea,eggs
+green tea,chocolate
+green tea,milk
+ground beef,mineral water
+ground beef,spaghetti
+ground beef,chocolate
+ground beef,milk
+ground beef,eggs
+ground beef,green tea
+ground beef,french fries
+frozen vegetables,mineral water
+frozen vegetables,spaghetti
+frozen vegetables,milk
+frozen vegetables,chocolate
+frozen vegetables,eggs
+frozen vegetables,french fries
+frozen vegetables,ground beef
+frozen vegetables,green tea
+pancakes,mineral water
+pancakes,spaghetti
+pancakes,eggs
+pancakes,french fries
+pancakes,chocolate
+pancakes,milk
+pancakes,green tea
+pancakes,ground beef
+pancakes,frozen vegetables
+burgers,eggs
+burgers,mineral water
+burgers,french fries
+burgers,spaghetti
+burgers,milk
+burgers,green tea
+burgers,chocolate
+burgers,ground beef
+burgers,pancakes
+burgers,frozen vegetables
+cake,mineral water
+cake,eggs
+cake,spaghetti
+cake,french fries
+cake,green tea
+cake,chocolate
+cake,milk
+cake,pancakes
+cake,burgers
+cake,frozen vegetables
+low fat yogurt,mineral water
+low fat yogurt,eggs
+low fat yogurt,spaghetti
+low fat yogurt,chocolate
+low fat yogurt,french fries
+low fat yogurt,milk
+low fat yogurt,frozen vegetables
+shrimp,mineral water
+shrimp,spaghetti
+shrimp,chocolate
+shrimp,milk
+shrimp,frozen vegetables
+shrimp,eggs
+shrimp,ground beef
+shrimp,green tea
+shrimp,pancakes
+tomatoes,mineral water
+tomatoes,spaghetti
+tomatoes,frozen vegetables
+tomatoes,milk
+tomatoes,chocolate
+tomatoes,green tea
+tomatoes,eggs
+tomatoes,french fries
+tomatoes,ground beef
+tomatoes,shrimp
+escalope,mineral water
+escalope,eggs
+escalope,spaghetti
+escalope,chocolate
+escalope,french fries
+olive oil,mineral water
+olive oil,spaghetti
+olive oil,milk
+olive oil,chocolate
+olive oil,ground beef
+olive oil,eggs
+olive oil,frozen vegetables
+olive oil,pancakes
+frozen smoothie,mineral water
+frozen smoothie,spaghetti
+frozen smoothie,chocolate
+frozen smoothie,french fries
+frozen smoothie,milk
+frozen smoothie,green tea
+frozen smoothie,eggs
+turkey,eggs
+turkey,mineral water
+turkey,spaghetti
+turkey,green tea
+turkey,milk
+turkey,chocolate
+turkey,burgers
+turkey,french fries
+chicken,mineral water
+chicken,spaghetti
+chicken,milk
+chicken,chocolate
+chicken,eggs
+chicken,green tea
+chicken,french fries
+whole wheat rice,mineral water
+whole wheat rice,spaghetti
+whole wheat rice,chocolate
+whole wheat rice,milk
+whole wheat rice,eggs
+whole wheat rice,french fries
+cooking oil,mineral water
+cooking oil,eggs
+cooking oil,spaghetti
+cooking oil,chocolate
+cooking oil,milk
+cookies,eggs
+cookies,chocolate
+cookies,french fries
+cookies,green tea
+grated cheese,mineral water
+grated cheese,spaghetti
+grated cheese,chocolate
+grated cheese,french fries
+grated cheese,ground beef
+soup,mineral water
+soup,spaghetti
+soup,chocolate
+soup,milk
+herb & pepper,mineral water
+herb & pepper,eggs
+herb & pepper,spaghetti
+herb & pepper,ground beef
+honey,mineral water
+honey,spaghetti
+fresh bread,mineral water
+salmon,mineral water
+salmon,spaghetti
+salmon,chocolate
+champagne,chocolate
+avocado,mineral water
+red wine,mineral water
+red wine,spaghetti
+cereals,mineral water
